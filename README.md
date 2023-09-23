@@ -25,3 +25,5 @@
 ## Anurag Bhattacharjee
 ### anuragdgp@gmail.com
 # Enjoy the Number Guessing Game in C++! Have fun and happy coding!
+
+https://github.com/AnuragB2004/NumberGuessingGame/assets/105806479/1695ec42-05f2-4322-92be-53207aec899c
